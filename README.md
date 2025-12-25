@@ -12,12 +12,12 @@ A simple and responsive web-based calculator that helps students estimate the **
 ## 📸 Screenshots
 
 ### Home Pages
-![Home Page](screenshots/1.png)
-![Home Page](screenshots/2.png)
+![Home Page](Screenshots/1.png)
+![Home Page](Screenshots/2.png)
 
 ### Result Calculation
-![Result Page](screenshots/1_result.png)
-![Result Page](screenshots/2_result.png)
+![Result Page](Screenshots/1_result.png)
+![Result Page](Screenshots/2_result.png)
 
 ---
 
